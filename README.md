@@ -1,5 +1,3 @@
-# Navigating Global Trade: An Analysis of Imports and Exports from 1980 to 2022
- 
 # 🌐 Navigating Global Trade: An Analysis of Imports and Exports from 1980 to 2022
 
 ![Project Logo](logo.webp)
@@ -8,8 +6,7 @@
 - [Project Overview](#-project-overview)
 - [Key Insights](#-key-insights)
 - [Data Analysis](#-data-analysis)
-- [Visualizations](#-visualizations)
-- [Conclusions](#-conclusions)
+- [Conclusions](#-Insights)
 - [Tools Used](#-tools-used)
 - [How to Use](#-how-to-use)
 - [Contributing](#-contributing)
