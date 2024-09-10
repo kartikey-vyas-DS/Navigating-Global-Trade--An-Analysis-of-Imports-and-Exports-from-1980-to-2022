@@ -2,6 +2,8 @@
 
 ![Project Logo](logo.webp)
 
+#### [View the full interactive dashboard on Tableau Public](https://public.tableau.com/views/GlobalTradeanalysis_17258956724290/GlobalTrade?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 📊 Table of Contents
 - [Project Overview](#-project-overview)
 - [Key Insights](#-key-insights)
